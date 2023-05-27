@@ -1,2 +1,2 @@
 # curso-em-video
- Exercícios feitos nos cursos do Curso em Vídeo
+ Todos os exercícios feitos durante os cursos do Curso em Vídeo
