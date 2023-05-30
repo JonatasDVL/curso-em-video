@@ -31,6 +31,14 @@ p code{
     border-radius: 5px;
 }
 
+.tabela{
+    border: 2px;
+    width: 120px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;       
+}
+
 code{
     color: black;
     padding: 2px;
